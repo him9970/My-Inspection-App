@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Inspection</string>
+
+    <!-- Dummy data for InspectionType -->
+    <string-array name="InspectionType">
+        <item>Clinical</item>
+        <item>Quality Check</item>
+        <item>Cleaning</item>
+        <item>Safety</item>
+        <item>Patient Survey</item>
+    </string-array>
+
+    <!-- Dummy data for Areas -->
+    <string-array name="Areas">
+        <item>Emergency ICU</item>
+        <item>A&amp;E Waiting Area</item>
+        <item>Nightingale Ward</item>
+        <item>Barton Ward</item>
+        <item>Sanger Ward</item>
+        <item>Neill Ward</item>
+        <item>Breckinridge Ward</item>
+        <item>Mahoney Ward</item>
+        <item>Seacole Ward</item>
+        <item>Taylor Ward</item>
+    </string-array>
+
+    <!-- Dummy data for CategoryNames -->
+    <string-array name="CategoryNames">
+        <item>Drugs</item>
+        <item>General</item>
+        <item>Overall Impressions</item>
+        <item>Inspection Frequency</item>
+        <item>Patient Happiness</item>
+        <item>Staff Presence</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

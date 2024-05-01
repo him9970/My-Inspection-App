@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyInspection" parent="Theme.Material3.DayNight.NoActionBar">
+         Customize your light theme here.
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.MyInspection" parent="Base.Theme.MyInspection" />
+
+    <style name="ToolbarTitle" parent="@android:style/TextAppearance">
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>
